@@ -1,0 +1,5 @@
+python-dateutil
+requests
+selectorlib
+bs4
+openpyxl
